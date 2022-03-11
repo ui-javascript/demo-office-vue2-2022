@@ -13,5 +13,6 @@ module.exports = {
   showNav: true,
 
   // entry: './__demo/**/*.js',
-  entry: './_hooks/**/*.js',
+  // entry: './_hooks/**/*.js',
+  entry: './_basemap/*.js',
 }
